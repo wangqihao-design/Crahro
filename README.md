@@ -1,4 +1,6 @@
-# personalsite
+# Crahro
+
+## Made with vue.js static webpage... developing
 
 ## Project setup
 ```
